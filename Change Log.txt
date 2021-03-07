@@ -1,0 +1,9 @@
+Change Log of Taerobee (Peter-JY/Taerobee)
+=====================================================
+
+1.0.0
+- Reposted Taerobee a.b.c, and change the version number to 1.0.0
+- Make it compatible with KSP 1.4.0~1.9.1
+- Add the original license of it
+
+*I found the original version number, but I temporarily forgot it. I will add it the next time I update the version.
