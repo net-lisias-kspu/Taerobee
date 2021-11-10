@@ -20,7 +20,11 @@ This Mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 
 ## License:
+### Current
 
+CC BY-ND 3.0 Unported
+
+### Previous and Original
 This work is still licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)), isn't under a All Rights Reserved (because of [this](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Remember_the_license_may_not_be_revoked))
 
 Please note the copyrights and trademarks in [NOTICE](./NOTICE).
