@@ -26,10 +26,6 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 ###### _brought to you by KGEx_
 
-## Description  
-
-> After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`@Beale`][LINK:beale] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
-
 ## Features  
 
 - Adds 21 stockalike parts
@@ -41,13 +37,12 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 ***
 
 ### Kottabo Talks Taerobee  
+
 https://www.youtube.com/watch?v=yz1PsuLLpho
 <details>
   <summary>Embedded Kottabo Youtube Video</summary>
     <iframe width="1070" height="602" src="https://www.youtube.com/embed/yz1PsuLLpho" title="Kottabo Talks Taerobee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
-
-<!-- [![][UTUBE:img]][UTUBE:link]  -->
 
 #### Cabin notes  
 
