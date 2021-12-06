@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 #### Taerobee
 
 >- [x]  ![][EN] English  
->- [x]  ![][RU] Russian (Deutsch)  
+>- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
 >HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
