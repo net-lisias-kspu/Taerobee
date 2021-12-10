@@ -27,7 +27,7 @@ Please note the copyrights and trademarks in [NOTICE](./NOTICE).
 
 ## UPSTREAM
 
-* [Baele](https://forum.kerbalspaceprogram.com/index.php?/profile/70533-beale/) ROOT
+* [Beale](https://forum.kerbalspaceprogram.com/index.php?/profile/70533-beale/) ROOT
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/119858-*/)
 * Relevant forks:
 	+ [Peter-JY](https://github.com/Peter-JY/Taerobee)
